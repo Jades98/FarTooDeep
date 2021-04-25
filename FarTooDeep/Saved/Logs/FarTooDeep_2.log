@@ -951,3 +951,209 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.25-13.41.25:730][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.04.25-13.41.25:736][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
 [2021.04.25-13.41.25:789][963]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.04.25-13.43.27:942][967]LogEditorTransaction: Undo Change Object Pin Value
+[2021.04.25-13.43.28:479][983]LogEditorTransaction: Undo Move Node
+[2021.04.25-13.43.33:154][530]LogEditorTransaction: Undo Add Node
+[2021.04.25-13.43.37:226][958]LogRenderer: Reallocating scene render targets to support 828x460 Format 10 NumSamples 1 (Frame:1).
+[2021.04.25-13.44.21:253][510]LogSavePackage: Moving '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Saved/BulletC2E4271B4B872A3AADFE7C8FEE9C9046.tmp' to '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Blueprints/Bullet.uasset'
+[2021.04.25-13.44.21:289][510]AssetCheck: New page: Asset Save: Bullet
+[2021.04.25-13.44.21:289][510]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Bullet.Bullet
+[2021.04.25-13.44.22:109][554]BlueprintLog: New page: Compile Bullet
+[2021.04.25-13.44.22:187][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.04.25-13.44.24:008][640]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-13.44.24:049][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-13.44.24:049][640]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 25, 2021, 7:44:24 AM)
+[2021.04.25-13.44.24:049][640]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.25-13.44.24:068][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019178s)
+[2021.04.25-13.44.24:069][640]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.25-13.44.24:070][640]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2021.04.25-13.44.24:070][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020891s)
+[2021.04.25-13.44.24:106][640]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.04.25-13.44.24:108][640]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.25-13.44.24:108][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-13.44.24:108][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-13.44.24:109][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-13.44.24:109][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-13.44.24:109][640]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-13.44.24:109][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-13.44.24:109][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-13.44.24:109][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-13.44.24:109][640]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-13.44.24:109][640]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-13.44.24:114][640]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-13.44.24:115][640]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-13.44.24:136][640]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset)
+[2021.04.25-13.44.24:137][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-13.44.24:137][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-13.44.24:137][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-13.44.24:137][640]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-13.44.24:137][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.25-13.44.24:137][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.25-13.44.24:152][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.25-13.44.24:152][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.25-13.44.24:152][640]LogInit: FAudioDevice initialized.
+[2021.04.25-13.44.24:152][640]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.04.25-13.44.24:217][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.44.24:217][640]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.25-13.44.24:221][640]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.25-10.44.24
+[2021.04.25-13.44.24:223][640]LogWorld: Bringing up level for play took: 0.004839
+[2021.04.25-13.44.24:224][640]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.25-13.44.24:226][640]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.25-13.44.24:230][640]PIE: Server logged in
+[2021.04.25-13.44.24:231][640]PIE: Play in editor total start time 0.2 seconds.
+[2021.04.25-13.44.24:360][641]LogRenderer: Reallocating scene render targets to support 1356x696 Format 10 NumSamples 1 (Frame:1).
+[2021.04.25-13.44.57:732][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.44.57:733][793]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.25-13.44.57:733][793]LogSlate: Window 'FarTooDeep Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.25-13.44.57:790][793]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.44.57:791][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.44.57:808][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-13.44.57:881][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.44.57:925][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.25-13.44.57:926][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.25-13.44.57:960][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.04.25-13.44.57:995][794]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.25-13.46.03:572][334]LogSavePackage: Moving '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Saved/Bullet4BB10E3B4D3C33F9F4A11CB41380CCE5.tmp' to '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Blueprints/Bullet.uasset'
+[2021.04.25-13.46.03:604][334]AssetCheck: New page: Asset Save: Bullet
+[2021.04.25-13.46.03:604][334]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Bullet.Bullet
+[2021.04.25-13.46.04:379][374]BlueprintLog: New page: Compile Bullet
+[2021.04.25-13.46.04:396][374]LogBlueprint: Error: [AssetLog] C:\Users\lucas.le\Documents\GitHub\dvj2\FarTooDeep\FarTooDeep\Content\ThirdPersonBP\Blueprints\Bullet.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2021.04.25-13.46.04:471][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.04.25-13.46.07:901][519]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-13.46.07:934][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-13.46.07:934][519]BlueprintLog: Warning: Blueprint failed to compile:  Bullet
+[2021.04.25-13.46.07:935][519]LogCustomDialog: Dialog displayed:
+[2021.04.25-13.46.14:993][519]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.04.25-13.46.17:151][627]LogSlate: Window 'Message Log' being destroyed
+[2021.04.25-13.46.17:174][627]LogSlate: Window 'Message Log' being destroyed
+[2021.04.25-13.46.23:007][929]LogEditorTransaction: Undo Set Node Enabled State
+[2021.04.25-13.46.32:057][174]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.46.37:624][428]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.46.37:626][428]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.46.37:626][428]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.46.37:627][428]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.46.38:204][455]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.46.38:204][455]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.46.38:205][455]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.46.38:205][455]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.46.40:684][569]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.40:684][569]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.40:685][569]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.40:685][569]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.40:685][569]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.40:685][569]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.40:685][569]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.40:685][569]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.40:861][573]LogSavePackage: Moving '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Saved/BulletA4D3C912445DFF6F58893FAAAC077C96.tmp' to '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Blueprints/Bullet.uasset'
+[2021.04.25-13.46.40:878][573]AssetCheck: New page: Asset Save: Bullet
+[2021.04.25-13.46.40:878][573]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Bullet.Bullet
+[2021.04.25-13.46.41:641][608]BlueprintLog: New page: Compile Bullet
+[2021.04.25-13.46.41:662][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:662][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:664][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:664][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:664][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:664][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:725][608]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.04.25-13.46.41:728][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:728][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:729][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:729][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:729][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:729][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:729][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:729][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:740][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:740][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:740][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:740][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:740][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:740][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:741][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:741][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:797][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:797][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:798][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:798][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:798][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:798][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.41:798][608]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.25-13.46.41:798][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube' 
+[2021.04.25-13.46.52:458][112]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-13.46.52:489][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-13.46.52:489][112]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 25, 2021, 7:46:52 AM)
+[2021.04.25-13.46.52:489][112]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.25-13.46.52:507][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018188s)
+[2021.04.25-13.46.52:508][112]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.25-13.46.52:509][112]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2021.04.25-13.46.52:509][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019752s)
+[2021.04.25-13.46.52:546][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.04.25-13.46.52:548][112]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.25-13.46.52:548][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-13.46.52:548][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-13.46.52:548][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-13.46.52:548][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-13.46.52:548][112]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-13.46.52:549][112]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-13.46.52:549][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-13.46.52:549][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-13.46.52:549][112]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-13.46.52:549][112]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-13.46.52:554][112]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-13.46.52:554][112]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-13.46.52:578][112]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset)
+[2021.04.25-13.46.52:578][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-13.46.52:578][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-13.46.52:578][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-13.46.52:579][112]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-13.46.52:579][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.25-13.46.52:579][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.25-13.46.52:593][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.25-13.46.52:593][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.25-13.46.52:593][112]LogInit: FAudioDevice initialized.
+[2021.04.25-13.46.52:593][112]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.04.25-13.46.52:605][112]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.25-13.46.52:608][112]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.25-10.46.52
+[2021.04.25-13.46.52:609][112]LogWorld: Bringing up level for play took: 0.002928
+[2021.04.25-13.46.52:610][112]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.25-13.46.52:614][112]PIE: Server logged in
+[2021.04.25-13.46.52:615][112]PIE: Play in editor total start time 0.143 seconds.
+[2021.04.25-13.47.01:387][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.47.01:387][750]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.25-13.47.01:387][750]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.47.01:388][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.47.01:402][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-13.47.01:455][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.47.01:488][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.47.01:488][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.25-13.47.01:489][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.25-13.47.01:517][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.04.25-13.47.01:569][751]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.25-13.47.03:670][844]Cmd: TRANSACTION UNDO
+[2021.04.25-13.47.03:670][844]LogEditorTransaction: Undo Set Scale
+[2021.04.25-13.47.03:689][844]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.47.03:691][844]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.47.03:691][844]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.47.03:691][844]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.47.03:744][844]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.47.03:744][844]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.47.03:745][844]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.47.03:745][844]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.04.25-13.47.06:816][982]LogEditorTransaction: Undo Set Scale
+[2021.04.25-13.47.06:837][982]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.47.06:838][982]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.47.06:838][982]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.47.06:838][982]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.47.06:893][982]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.47.06:894][982]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.47.06:894][982]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.47.06:894][982]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Bullet_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.04.25-13.47.08:159][ 37]LogEditorTransaction: Undo Set Scale
+[2021.04.25-13.47.08:943][ 75]LogEditorTransaction: Undo Modify Component Scale
+[2021.04.25-13.47.09:553][104]LogEditorTransaction: Undo Detach Component
+[2021.04.25-13.47.10:184][135]LogEditorTransaction: Undo Edit Template
+[2021.04.25-13.47.19:750][495]LogSavePackage: Moving '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Saved/BulletF795C06F418285622CF3F0BC904FB441.tmp' to '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Blueprints/Bullet.uasset'
+[2021.04.25-13.47.19:778][495]AssetCheck: New page: Asset Save: Bullet
+[2021.04.25-13.47.19:778][495]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Bullet.Bullet
+[2021.04.25-13.47.20:335][520]BlueprintLog: New page: Compile Bullet
+[2021.04.25-13.47.20:412][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
