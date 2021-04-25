@@ -1157,3 +1157,64 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.25-13.47.19:778][495]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Bullet.Bullet
 [2021.04.25-13.47.20:335][520]BlueprintLog: New page: Compile Bullet
 [2021.04.25-13.47.20:412][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.04.25-13.47.50:945][136]LogSavePackage: Moving '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Saved/BulletB10D876E4DDF9B6A1A6D8EA12165CD65.tmp' to '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Blueprints/Bullet.uasset'
+[2021.04.25-13.47.50:977][136]AssetCheck: New page: Asset Save: Bullet
+[2021.04.25-13.47.50:977][136]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Bullet.Bullet
+[2021.04.25-13.47.52:726][216]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-13.47.52:768][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-13.47.52:768][216]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 25, 2021, 7:47:52 AM)
+[2021.04.25-13.47.52:768][216]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.25-13.47.52:787][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018284s)
+[2021.04.25-13.47.52:788][216]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.25-13.47.52:789][216]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2021.04.25-13.47.52:789][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020051s)
+[2021.04.25-13.47.52:826][216]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.04.25-13.47.52:829][216]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.25-13.47.52:829][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-13.47.52:829][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-13.47.52:829][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-13.47.52:829][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-13.47.52:829][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-13.47.52:829][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-13.47.52:829][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-13.47.52:829][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-13.47.52:830][216]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-13.47.52:830][216]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-13.47.52:834][216]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-13.47.52:834][216]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-13.47.52:856][216]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset)
+[2021.04.25-13.47.52:856][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-13.47.52:856][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-13.47.52:856][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-13.47.52:856][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-13.47.52:856][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.25-13.47.52:856][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.25-13.47.52:871][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.25-13.47.52:871][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.25-13.47.52:871][216]LogInit: FAudioDevice initialized.
+[2021.04.25-13.47.52:871][216]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.04.25-13.47.52:923][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.47.52:923][216]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.25-13.47.52:927][216]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.25-10.47.52
+[2021.04.25-13.47.52:931][216]LogWorld: Bringing up level for play took: 0.005574
+[2021.04.25-13.47.52:931][216]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.04.25-13.47.52:934][216]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.25-13.47.52:938][216]PIE: Server logged in
+[2021.04.25-13.47.52:938][216]PIE: Play in editor total start time 0.188 seconds.
+[2021.04.25-13.48.04:657][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.48.04:657][635]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.25-13.48.04:658][635]LogSlate: Window 'FarTooDeep Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.25-13.48.04:730][635]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.48.04:733][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.48.04:744][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-13.48.04:810][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.48.04:847][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.25-13.48.04:849][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.25-13.48.04:880][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.04.25-13.48.04:903][636]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.04.25-13.48.09:553][810]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.04.25-13.48.09:605][810]LogSavePackage: Moving '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Saved/ThirdPersonExampleMap76F06138418B77792FCFE9847CA8D0FF.tmp' to '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.25-13.48.09:764][810]LogSavePackage: Moving '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Saved/ThirdPersonExampleMap_BuiltData39DD4F6B4776DC9DB6F831A5B1CC5ABA.tmp' to '../../../../../../Users/lucas.le/Documents/GitHub/dvj2/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.04.25-13.48.09:780][810]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-13.48.09:780][810]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.04.25-13.48.09:780][810]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
