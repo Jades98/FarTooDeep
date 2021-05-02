@@ -830,3 +830,208 @@ Script Stack (0 frames):
 [2021.05.02-18.29.38:446][  1]LogAudioMixer: Display: 0: FrontLeft
 [2021.05.02-18.29.38:446][  1]LogAudioMixer: Display: 1: FrontRight
 [2021.05.02-18.29.38:646][  2]LogSlate: Took 0.044522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.02-18.36.16:533][452]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{dcd2b493-72c1-4cd0-b9e1-4642515c6e30}.
+[2021.05.02-18.36.16:533][452]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.02-18.36.16:553][452]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-18.36.16:553][452]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-20.09.28:849][364]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.02-20.09.28:886][364]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\ORT\7mo semestre\Produccion 4\Modelos\Animados\Animaciones FBX\Distancia_Muerte.fbx)
+[2021.05.02-20.09.28:994][364]LogFbx: Loading FBX Scene from D:\ORT\7mo semestre\Produccion 4\Modelos\Animados\Animaciones FBX\Distancia_Muerte.fbx
+[2021.05.02-20.09.29:181][364]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.02-20.09.38:787][364]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(0) ASBaseColumna
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(1) ASEndColaColumna
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(2) Columna_01
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(3) Columna_02
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(4) Columna_03
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(5) Columna_04
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(6) Columna_05
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(7) Columna_06
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(8) ASCentralTorso
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(9) ASRotorClaviculaIzq
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(10) ClaviculaIzq
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(11) HuesoFlexBrazoIzq_01
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(12) HuesoFlexBrazoIzq_02
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(13) HuesoFlexBrazoIzq_03
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(14) HuesoFlexBrazoIzq_04
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(15) HuesoFlexBrazoIzq_05
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(16) HuesoFlexBrazoIzq_06
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(17) HuesoFlexBrazoIzq_07
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(18) HuesoFlexBrazoIzq_08
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(19) HuesoFlexBrazoIzq_09
+[2021.05.02-20.09.38:823][364]LogFbx: SortedLinks :(20) ASEndDedoIzq_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(21) DedoIzq2_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(22) DedoIzq2_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(23) DedoIzq2_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(24) ASEndDedoIzq_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(25) DedoIzq3_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(26) DedoIzq3_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(27) DedoIzq3_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(28) ASEndDedoIzq_04
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(29) DedoIzq4_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(30) DedoIzq4_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(31) DedoIzq4_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(32) ASEndDedoIzq_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(33) DedoIzq1_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(34) DedoIzq1_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(35) DedoIzq1_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(36) ASRotorClaviculaDer
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(37) ClaviculaDer
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(38) HuesoFlexBrazoDer_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(39) HuesoFlexBrazoDer_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(40) HuesoFlexBrazoDer_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(41) HuesoFlexBrazoDer_04
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(42) HuesoFlexBrazoDer_05
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(43) HuesoFlexBrazoDer_06
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(44) HuesoFlexBrazoDer_07
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(45) HuesoFlexBrazoDer_08
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(46) HuesoFlexBrazoDer_09
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(47) ASEndDedoDer_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(48) DedoDer2_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(49) DedoDer2_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(50) DedoDer2_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(51) ASEndDedoDer_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(52) DedoDer3_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(53) DedoDer3_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(54) DedoDer3_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(55) ASEndDedoDer_04
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(56) DedoDer4_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(57) DedoDer4_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(58) DedoDer4_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(59) ASEndDedoDer_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(60) DedoDer1_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(61) DedoDer1_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(62) DedoDer1_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(63) HuesoCuello_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(64) HuesoCuello_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(65) HuesoCuello_03
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(66) HuesoCuello_04
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(67) HuesoCuello_05
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(68) HuesoCuello_06
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(69) MusculoIzq5_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(70) MusculoIzq5_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(71) MusculoIzq4_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(72) MusculoIzq4_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(73) MusculoIzq3_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(74) MusculoIzq3_02
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(75) MusculoIzq2_01
+[2021.05.02-20.09.38:824][364]LogFbx: SortedLinks :(76) MusculoIzq2_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(77) MusculoIzq1_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(78) MusculoIzq1_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(79) MusculoCola
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(80) MusculoDer5_004
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(81) MusculoDer5_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(82) MusculoDer5_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(83) MusculoDer4_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(84) MusculoDer4_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(85) MusculoDer3_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(86) MusculoDer3_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(87) MusculoDer2_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(88) MusculoDer2_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(89) MusculoDer1_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(90) MusculoDer1_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(91) ASBaseColumna1
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(92) ASRotorCuello_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(93) ASRotorBoca
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(94) HuesoBoca_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(95) HuesoBoca_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(96) ASRotorCuello_03
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(97) Ojo_LP
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(98) ASPiernaDer1
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(99) PiernaDer1_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(100) PiernaDer1_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(101) PiernaDer1_03
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(102) PiernaDer1_04
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(103) ASPiernaIzq1
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(104) PiernaIzq1_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(105) PiernaIzq1_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(106) PiernaIzq1_03
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(107) PiernaIzq1_04
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(108) ASPiernaDer2
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(109) PiernaDer2_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(110) PiernaDer2_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(111) PiernaDer2_03
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(112) PiernaDer2_04
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(113) ASPiernaIzq2
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(114) PiernaIzq2_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(115) PiernaIzq2_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(116) PiernaIzq2_03
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(117) PiernaIzq2_04
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(118) ASPiernaDer3
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(119) PiernaDer3_01
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(120) PiernaDer3_02
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(121) PiernaDer3_03
+[2021.05.02-20.09.38:825][364]LogFbx: SortedLinks :(122) PiernaDer3_04
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(123) ASPiernaIzq3
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(124) PiernaIzq3_01
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(125) PiernaIzq3_02
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(126) PiernaIzq3_03
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(127) PiernaIzq3_04
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(128) ASPiernaDer4
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(129) PiernaDer4_01
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(130) PiernaDer4_02
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(131) PiernaDer4_03
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(132) PiernaDer4_04
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(133) ASPiernaIzq4
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(134) PiernaIzq4_01
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(135) PiernaIzq4_02
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(136) PiernaIzq4_03
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(137) PiernaIzq4_04
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(138) Cola_01
+[2021.05.02-20.09.38:826][364]LogFbx: SortedLinks :(139) Cola_02
+[2021.05.02-20.09.38:835][364]LogFbx: Parsing AnimStack Take 001
+[2021.05.02-20.09.38:841][364]LogFbx: Warning: CurveName(Distancia_LP001) is skipped because it only contains invalid values.
+[2021.05.02-20.09.38:841][364]LogFbx: Warning: CurveName(Distancia_LP002) is skipped because it only contains invalid values.
+[2021.05.02-20.09.40:322][364]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Muerte.Distancia_Muerte
+[2021.05.02-20.09.40:322][364]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-20.09.40:322][364]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-20.09.40:325][364]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-20.09.40:325][364]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-20.09.40:960][364]FBXImport: FBX File Loading: Found name clash, node 'ASBaseColumna' was renamed to 'ASBaseColumna1' 
+[2021.05.02-20.09.40:960][364]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2021.05.02-20.09.41:025][364]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Muerte.Distancia_Muerte
+[2021.05.02-20.09.41:182][364]LogSlate: Took 0.036897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.02-20.09.43:713][473]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.02-20.09.43:731][473]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.02-20.09.47:900][721]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_5:PersistentLevel.AI_Grenadie_C_0.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-20.09.47:900][721]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_5:PersistentLevel.AI_Grenadie_C_0.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-20.09.47:902][721]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_5:PersistentLevel.AI_Grenadie_C_0.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-20.09.47:902][721]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_5:PersistentLevel.AI_Grenadie_C_0.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-20.09.51:955][919]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Base.Distancia_Base
+[2021.05.02-20.09.52:006][919]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.05.02-20.09.52:414][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-20.09.52:426][919]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2021.05.02-20.09.53:197][919]LogSlate: Took 0.009571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.02-20.09.53:454][919]LogRenderer: Reallocating scene render targets to support 1168x884 Format 10 NumSamples 1 (Frame:1).
+[2021.05.02-20.09.56:028][ 16]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Muerte.Distancia_Muerte
+[2021.05.02-20.09.56:070][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-20.09.56:649][ 16]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.02-20.10.08:200][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Muerte.Distancia_Muerte
+[2021.05.02-20.10.11:209][574]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_MuerteD53F4446498608BAD76081BD4D3E9A6F.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Muerte.uasset'
+[2021.05.02-20.10.11:228][574]AssetCheck: New page: Asset Save: Distancia_Muerte
+[2021.05.02-20.10.11:228][574]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Muerte.Distancia_Muerte
+[2021.05.02-20.10.14:282][672]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.14:282][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.16:214][731]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.16:214][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.18:304][806]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.18:304][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.29:914][246]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.29:914][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.40:270][613]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.40:270][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.42:909][694]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.42:909][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.50:573][862]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.50:573][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.50:593][862]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.50:593][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.50:675][862]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.50:675][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.52:101][909]LogSlate: Window 'Distancia_Base' being destroyed
+[2021.05.02-20.10.52:119][909]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.10.52:119][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.10.53:401][964]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2021.05.02-20.10.53:464][964]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/ThirdPersonExampleMap4DE4927A4F4C45A2328504A7DDD5F808.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.02-20.10.53:493][964]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.05.02-20.10.53:493][964]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
