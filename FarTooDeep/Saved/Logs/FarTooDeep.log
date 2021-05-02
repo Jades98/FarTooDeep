@@ -21952,3 +21952,334 @@ Script Stack (0 frames):
 [2021.05.02-01.06.18:957][623]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/ThirdPersonExampleMapA15CDA614189840D5159E3A464CDECF7.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.05.02-01.06.18:990][623]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.05.02-01.06.18:990][623]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.02-01.38.32:222][787]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{dcd2b493-72c1-4cd0-b9e1-4642515c6e30}.
+[2021.05.02-01.38.32:222][787]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.02-01.38.32:284][787]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-01.38.32:284][787]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-02.56.39:310][189]LogHttp: Warning: 0000014C536EEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F44764B-45D8-0CB1-8799-10AE8E286F69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=ea11dbfd402397f12d4d1db70104fc9f%7C6c35409e9bff40bf84e20ae9a83b5da4%7C3d964603-f181-4dde-8b58-b2b237378ef3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.02-02.56.39:310][189]LogHttp: Warning: 0000014C536EEB00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.02-02.56.39:310][189]LogHttp: Warning: 0000014C536EEB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x14bac05feb0 [can pipeline])
+[2021.05.02-02.56.39:310][189]LogHttp: Warning: 0000014C536EEB00: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2021.05.02-02.56.39:310][189]LogHttp: Warning: 0000014C536EEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.160.158.102) port 443 (#6))
+[2021.05.02-02.56.39:310][189]LogHttp: Warning: 0000014C536EEB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.02-02.56.39:311][189]LogHttp: Warning: 0000014C536EEB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.02-02.56.39:311][189]LogHttp: Warning: 0000014C536EEB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.02-02.56.39:311][189]LogHttp: Warning: 0000014C536EEB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.02-02.56.39:311][189]LogHttp: Warning: 0000014C536EEB00: libcurl info message cache 7 (Closing connection 6)
+[2021.05.02-02.56.39:849][190]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F44764B-45D8-0CB1-8799-10AE8E286F69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=ea11dbfd402397f12d4d1db70104fc9f%7C6c35409e9bff40bf84e20ae9a83b5da4%7C3d964603-f181-4dde-8b58-b2b237378ef3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.02-03.44.05:647][ 91]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\ORT\7mo semestre\Produccion 4\Modelos\Animados\Animaciones\Distancia_AtaqueProyectil.fbx)
+[2021.05.02-03.44.05:674][ 91]LogFbx: Loading FBX Scene from D:\ORT\7mo semestre\Produccion 4\Modelos\Animados\Animaciones\Distancia_AtaqueProyectil.fbx
+[2021.05.02-03.44.05:876][ 91]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.02-03.44.17:388][ 91]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2021.05.02-03.44.17:540][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.05.02-03.44.17:594][ 91]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.05.02-03.44.17:998][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.05.02-03.44.17:999][ 91]FBXImport: FBX File Loading: Found name clash, node 'ASBaseColumna' was renamed to 'ASBaseColumna1' 
+[2021.05.02-03.44.17:999][ 91]FBXImport: Import was canceled. 
+[2021.05.02-03.44.18:071][ 91]LogAssetTools: The import task was canceled.
+[2021.05.02-03.44.20:544][208]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.02-03.44.20:579][208]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.02-03.44.29:155][375]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\ORT\7mo semestre\Produccion 4\Modelos\Animados\Animaciones\Distancia_AtaqueProyectil.fbx)
+[2021.05.02-03.44.29:186][375]LogFbx: Loading FBX Scene from D:\ORT\7mo semestre\Produccion 4\Modelos\Animados\Animaciones\Distancia_AtaqueProyectil.fbx
+[2021.05.02-03.44.29:379][375]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.02-03.44.37:179][375]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2021.05.02-03.44.37:252][375]LogFbx: SortedLinks :(0) ASBaseColumna
+[2021.05.02-03.44.37:252][375]LogFbx: SortedLinks :(1) ASEndColaColumna
+[2021.05.02-03.44.37:252][375]LogFbx: SortedLinks :(2) Columna_01
+[2021.05.02-03.44.37:252][375]LogFbx: SortedLinks :(3) Columna_02
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(4) Columna_03
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(5) Columna_04
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(6) Columna_05
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(7) Columna_06
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(8) ASCentralTorso
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(9) ASRotorClaviculaIzq
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(10) ClaviculaIzq
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(11) HuesoFlexBrazoIzq_01
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(12) HuesoFlexBrazoIzq_02
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(13) HuesoFlexBrazoIzq_03
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(14) HuesoFlexBrazoIzq_04
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(15) HuesoFlexBrazoIzq_05
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(16) HuesoFlexBrazoIzq_06
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(17) HuesoFlexBrazoIzq_07
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(18) HuesoFlexBrazoIzq_08
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(19) HuesoFlexBrazoIzq_09
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(20) ASEndDedoIzq_02
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(21) DedoIzq2_01
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(22) DedoIzq2_02
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(23) DedoIzq2_03
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(24) ASEndDedoIzq_03
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(25) DedoIzq3_01
+[2021.05.02-03.44.37:253][375]LogFbx: SortedLinks :(26) DedoIzq3_02
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(27) DedoIzq3_03
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(28) ASEndDedoIzq_04
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(29) DedoIzq4_01
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(30) DedoIzq4_02
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(31) DedoIzq4_03
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(32) ASEndDedoIzq_01
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(33) DedoIzq1_01
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(34) DedoIzq1_02
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(35) DedoIzq1_03
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(36) ASRotorClaviculaDer
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(37) ClaviculaDer
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(38) HuesoFlexBrazoDer_01
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(39) HuesoFlexBrazoDer_02
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(40) HuesoFlexBrazoDer_03
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(41) HuesoFlexBrazoDer_04
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(42) HuesoFlexBrazoDer_05
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(43) HuesoFlexBrazoDer_06
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(44) HuesoFlexBrazoDer_07
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(45) HuesoFlexBrazoDer_08
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(46) HuesoFlexBrazoDer_09
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(47) ASEndDedoDer_02
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(48) DedoDer2_01
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(49) DedoDer2_02
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(50) DedoDer2_03
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(51) ASEndDedoDer_03
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(52) DedoDer3_01
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(53) DedoDer3_02
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(54) DedoDer3_03
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(55) ASEndDedoDer_04
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(56) DedoDer4_01
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(57) DedoDer4_02
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(58) DedoDer4_03
+[2021.05.02-03.44.37:254][375]LogFbx: SortedLinks :(59) ASEndDedoDer_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(60) DedoDer1_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(61) DedoDer1_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(62) DedoDer1_03
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(63) HuesoCuello_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(64) HuesoCuello_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(65) HuesoCuello_03
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(66) HuesoCuello_04
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(67) HuesoCuello_05
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(68) HuesoCuello_06
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(69) MusculoIzq5_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(70) MusculoIzq5_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(71) MusculoIzq4_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(72) MusculoIzq4_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(73) MusculoIzq3_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(74) MusculoIzq3_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(75) MusculoIzq2_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(76) MusculoIzq2_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(77) MusculoIzq1_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(78) MusculoIzq1_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(79) MusculoCola
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(80) MusculoDer5_004
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(81) MusculoDer5_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(82) MusculoDer5_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(83) MusculoDer4_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(84) MusculoDer4_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(85) MusculoDer3_01
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(86) MusculoDer3_02
+[2021.05.02-03.44.37:255][375]LogFbx: SortedLinks :(87) MusculoDer2_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(88) MusculoDer2_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(89) MusculoDer1_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(90) MusculoDer1_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(91) ASBaseColumna1
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(92) ASRotorCuello_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(93) ASRotorBoca
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(94) HuesoBoca_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(95) HuesoBoca_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(96) ASRotorCuello_03
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(97) Ojo_LP
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(98) ASPiernaDer1
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(99) PiernaDer1_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(100) PiernaDer1_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(101) PiernaDer1_03
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(102) PiernaDer1_04
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(103) ASPiernaIzq1
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(104) PiernaIzq1_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(105) PiernaIzq1_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(106) PiernaIzq1_03
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(107) PiernaIzq1_04
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(108) ASPiernaDer2
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(109) PiernaDer2_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(110) PiernaDer2_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(111) PiernaDer2_03
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(112) PiernaDer2_04
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(113) ASPiernaIzq2
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(114) PiernaIzq2_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(115) PiernaIzq2_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(116) PiernaIzq2_03
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(117) PiernaIzq2_04
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(118) ASPiernaDer3
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(119) PiernaDer3_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(120) PiernaDer3_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(121) PiernaDer3_03
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(122) PiernaDer3_04
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(123) ASPiernaIzq3
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(124) PiernaIzq3_01
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(125) PiernaIzq3_02
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(126) PiernaIzq3_03
+[2021.05.02-03.44.37:256][375]LogFbx: SortedLinks :(127) PiernaIzq3_04
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(128) ASPiernaDer4
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(129) PiernaDer4_01
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(130) PiernaDer4_02
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(131) PiernaDer4_03
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(132) PiernaDer4_04
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(133) ASPiernaIzq4
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(134) PiernaIzq4_01
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(135) PiernaIzq4_02
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(136) PiernaIzq4_03
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(137) PiernaIzq4_04
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(138) Cola_01
+[2021.05.02-03.44.37:257][375]LogFbx: SortedLinks :(139) Cola_02
+[2021.05.02-03.44.37:269][375]LogFbx: Parsing AnimStack Take 001
+[2021.05.02-03.44.40:176][375]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.Distancia_AtaqueProyectil
+[2021.05.02-03.44.40:187][375]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_9) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.44.40:187][375]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_9) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.44.40:188][375]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_9) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.44.40:188][375]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_9) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.44.40:191][375]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_9:PersistentLevel.AI_Grenadie_C_0.CharacterMesh0.AnimSingleNodeInstance_10) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.44.40:192][375]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_9:PersistentLevel.AI_Grenadie_C_0.CharacterMesh0.AnimSingleNodeInstance_10) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.44.40:249][375]FBXImport: FBX File Loading: Found name clash, node 'ASBaseColumna' was renamed to 'ASBaseColumna1' 
+[2021.05.02-03.44.40:249][375]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2021.05.02-03.44.40:311][375]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.Distancia_AtaqueProyectil
+[2021.05.02-03.44.42:302][427]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.02-03.44.42:325][427]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.02-03.44.46:112][572]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Base.Distancia_Base
+[2021.05.02-03.44.46:123][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-03.44.48:843][628]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Base_Anim.Distancia_Base_Anim
+[2021.05.02-03.44.48:851][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_99:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-03.44.49:408][628]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.02-03.44.58:048][911]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_Base_Anim0BBD520046F889C99F954ABD551BCA3A.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Base_Anim.uasset'
+[2021.05.02-03.44.58:078][911]AssetCheck: New page: Asset Save: Distancia_Base_Anim
+[2021.05.02-03.44.58:078][911]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Base_Anim.Distancia_Base_Anim
+[2021.05.02-03.45.08:218][250]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.45.08:218][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.45.21:553][688]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.Distancia_AtaqueProyectil
+[2021.05.02-03.45.34:623][ 93]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_AtaqueProyectil65633C544A9215C40F3C1D94C632E42E.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.uasset'
+[2021.05.02-03.45.34:649][ 93]AssetCheck: New page: Asset Save: Distancia_AtaqueProyectil
+[2021.05.02-03.45.34:649][ 93]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.Distancia_AtaqueProyectil
+[2021.05.02-03.46.09:872][882]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.46.09:872][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.46.13:098][957]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.46.13:099][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.46.25:118][226]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.46.25:118][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.46.32:143][387]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.46.32:143][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.46.39:299][548]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.46.39:299][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.46.45:930][691]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.46.45:930][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.46.58:573][984]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_AtaqueProyectil30565B0E48D79F67B203B49449E4BD6C.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.uasset'
+[2021.05.02-03.46.58:600][984]AssetCheck: New page: Asset Save: Distancia_AtaqueProyectil
+[2021.05.02-03.46.58:600][984]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.Distancia_AtaqueProyectil
+[2021.05.02-03.47.01:040][ 37]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.47.01:040][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.47.01:082][ 37]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.47.01:082][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.47.01:193][ 37]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.47.01:193][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.47.02:909][ 81]LogSlate: Window 'Distancia_Base' being destroyed
+[2021.05.02-03.47.02:939][ 81]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.47.02:940][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.47.04:648][136]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-03.47.04:664][136]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.02-03.47.04:668][136]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2021.05.02-03.47.04:742][136]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2021.05.02-03.47.04:752][136]LogPlayLevel: PlayLevel: Blueprint regeneration took 87 ms (1 blueprints)
+[2021.05.02-03.47.04:753][136]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (1 may. 2021 21:47:04)
+[2021.05.02-03.47.04:753][136]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.02-03.47.04:814][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059889s)
+[2021.05.02-03.47.04:815][136]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.02-03.47.04:816][136]LogPlayLevel: PIE: World Init took: (0.002413s)
+[2021.05.02-03.47.04:816][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.062612s)
+[2021.05.02-03.47.04:847][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.05.02-03.47.04:848][136]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.02-03.47.04:848][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-03.47.04:848][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-03.47.04:848][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-03.47.04:848][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-03.47.04:848][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-03.47.04:848][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-03.47.04:848][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-03.47.04:848][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-03.47.04:849][136]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-03.47.04:849][136]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-03.47.04:915][136]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-03.47.04:915][136]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-03.47.04:925][136]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.05.02-03.47.04:926][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-03.47.04:926][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-03.47.04:926][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-03.47.04:927][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-03.47.04:927][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-03.47.04:927][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-03.47.04:949][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-03.47.04:949][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-03.47.04:949][136]LogInit: FAudioDevice initialized.
+[2021.05.02-03.47.04:950][136]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.05.02-03.47.04:966][136]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-03.47.04:969][136]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.47.04:970][136]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.47.04:973][136]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.47.04:974][136]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.47.04:975][136]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.05.02-00.47.04
+[2021.05.02-03.47.04:976][136]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.47.04:976][136]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.47.04:977][136]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.47.04:977][136]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-03.47.04:978][136]LogWorld: Bringing up level for play took: 0.010142
+[2021.05.02-03.47.04:978][136]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2021.05.02-03.47.05:002][136]PIE: El servidor ha iniciado la sesión
+[2021.05.02-03.47.05:004][136]PIE: Play in editor total start time 0,341 seconds.
+[2021.05.02-03.47.07:741][189]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.10:663][309]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.11:482][343]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.11:482][343]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie
+[2021.05.02-03.47.11:482][343]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.12:292][376]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.12:292][376]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie
+[2021.05.02-03.47.12:292][376]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.12:732][394]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.13:857][441]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.14:746][476]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.15:519][510]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.15:520][510]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie
+[2021.05.02-03.47.15:520][510]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.15:937][528]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.15:937][528]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie
+[2021.05.02-03.47.15:938][528]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.41:366][560]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie2
+[2021.05.02-03.47.41:366][560]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.41:366][560]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.42:210][595]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.42:993][627]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.42:993][627]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie2
+[2021.05.02-03.47.42:993][627]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.43:471][645]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.43:471][645]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie2
+[2021.05.02-03.47.43:471][645]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.44:657][693]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie2
+[2021.05.02-03.47.44:657][693]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.44:657][693]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.46:157][700]LogCharacterMovement: Character1_C_0 is stuck and failed to move! Velocity: X=-132.12 Y=164.83 Z=0.00 Location: X=337.77 Y=645.32 Z=226.43 Normal: X=1.00 Y=-0.01 Z=0.00 PenetrationDepth:3.194 Actor:Bullet_C_15 Component:Collision BoneName:None (0 other events since notify)
+[2021.05.02-03.47.46:667][720]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie2
+[2021.05.02-03.47.46:668][720]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.46:668][720]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.48:502][735]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.51:363][850]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.51:559][858]LogBlueprintUserMessages: [Character1_C_0] AI_Grenadie
+[2021.05.02-03.47.51:559][858]LogBlueprintUserMessages: [Character1_C_0] Damage dealt = 15
+[2021.05.02-03.47.52:214][885]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.47.52:980][918]LogBlueprintUserMessages: [Character1_C_0] Character1
+[2021.05.02-03.48.15:346][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-03.48.15:346][848]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.02-03.48.15:346][848]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-03.48.15:347][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.48.15:370][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-03.48.15:378][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-03.48.15:401][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-03.48.15:402][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-03.48.15:405][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-03.48.15:435][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.05.02-03.48.15:465][849]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2021.05.02-03.55.29:095][657]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.05.02-03.55.29:153][657]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/ThirdPersonExampleMap_Auto5E1165F844E1930BC9C6ED698F26CF4E5.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2021.05.02-03.55.29:155][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.093
+[2021.05.02-03.55.29:155][657]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2021.05.02-03.56.58:936][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.02-03.56.58:974][423]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/ThirdPersonExampleMap41006E3B4225F8C2126C62A97C5D4D8E.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.02-03.56.59:001][423]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.05.02-03.56.59:001][423]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
