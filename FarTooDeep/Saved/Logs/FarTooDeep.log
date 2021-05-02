@@ -22283,3 +22283,319 @@ Script Stack (0 frames):
 [2021.05.02-03.56.58:974][423]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/ThirdPersonExampleMap41006E3B4225F8C2126C62A97C5D4D8E.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.05.02-03.56.59:001][423]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.05.02-03.56.59:001][423]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.02-06.11.15:504][635]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\ORT\7mo semestre\Produccion 4\Modelos\Animados\Animaciones\Distancia_AtaqueBomba.fbx)
+[2021.05.02-06.11.15:531][635]LogFbx: Loading FBX Scene from D:\ORT\7mo semestre\Produccion 4\Modelos\Animados\Animaciones\Distancia_AtaqueBomba.fbx
+[2021.05.02-06.11.15:767][635]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.02-06.11.24:130][635]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2021.05.02-06.11.24:216][635]LogFbx: SortedLinks :(0) ASBaseColumna
+[2021.05.02-06.11.24:216][635]LogFbx: SortedLinks :(1) ASEndColaColumna
+[2021.05.02-06.11.24:216][635]LogFbx: SortedLinks :(2) Columna_01
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(3) Columna_02
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(4) Columna_03
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(5) Columna_04
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(6) Columna_05
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(7) Columna_06
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(8) ASCentralTorso
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(9) ASRotorClaviculaIzq
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(10) ClaviculaIzq
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(11) HuesoFlexBrazoIzq_01
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(12) HuesoFlexBrazoIzq_02
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(13) HuesoFlexBrazoIzq_03
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(14) HuesoFlexBrazoIzq_04
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(15) HuesoFlexBrazoIzq_05
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(16) HuesoFlexBrazoIzq_06
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(17) HuesoFlexBrazoIzq_07
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(18) HuesoFlexBrazoIzq_08
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(19) HuesoFlexBrazoIzq_09
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(20) ASEndDedoIzq_02
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(21) DedoIzq2_01
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(22) DedoIzq2_02
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(23) DedoIzq2_03
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(24) ASEndDedoIzq_03
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(25) DedoIzq3_01
+[2021.05.02-06.11.24:217][635]LogFbx: SortedLinks :(26) DedoIzq3_02
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(27) DedoIzq3_03
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(28) ASEndDedoIzq_04
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(29) DedoIzq4_01
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(30) DedoIzq4_02
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(31) DedoIzq4_03
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(32) ASEndDedoIzq_01
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(33) DedoIzq1_01
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(34) DedoIzq1_02
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(35) DedoIzq1_03
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(36) ASRotorClaviculaDer
+[2021.05.02-06.11.24:218][635]LogFbx: SortedLinks :(37) ClaviculaDer
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(38) HuesoFlexBrazoDer_01
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(39) HuesoFlexBrazoDer_02
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(40) HuesoFlexBrazoDer_03
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(41) HuesoFlexBrazoDer_04
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(42) HuesoFlexBrazoDer_05
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(43) HuesoFlexBrazoDer_06
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(44) HuesoFlexBrazoDer_07
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(45) HuesoFlexBrazoDer_08
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(46) HuesoFlexBrazoDer_09
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(47) ASEndDedoDer_02
+[2021.05.02-06.11.24:219][635]LogFbx: SortedLinks :(48) DedoDer2_01
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(49) DedoDer2_02
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(50) DedoDer2_03
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(51) ASEndDedoDer_03
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(52) DedoDer3_01
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(53) DedoDer3_02
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(54) DedoDer3_03
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(55) ASEndDedoDer_04
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(56) DedoDer4_01
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(57) DedoDer4_02
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(58) DedoDer4_03
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(59) ASEndDedoDer_01
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(60) DedoDer1_01
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(61) DedoDer1_02
+[2021.05.02-06.11.24:220][635]LogFbx: SortedLinks :(62) DedoDer1_03
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(63) HuesoCuello_01
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(64) HuesoCuello_02
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(65) HuesoCuello_03
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(66) HuesoCuello_04
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(67) HuesoCuello_05
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(68) HuesoCuello_06
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(69) MusculoIzq5_01
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(70) MusculoIzq5_02
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(71) MusculoIzq4_01
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(72) MusculoIzq4_02
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(73) MusculoIzq3_01
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(74) MusculoIzq3_02
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(75) MusculoIzq2_01
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(76) MusculoIzq2_02
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(77) MusculoIzq1_01
+[2021.05.02-06.11.24:221][635]LogFbx: SortedLinks :(78) MusculoIzq1_02
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(79) MusculoCola
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(80) MusculoDer5_004
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(81) MusculoDer5_01
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(82) MusculoDer5_02
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(83) MusculoDer4_01
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(84) MusculoDer4_02
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(85) MusculoDer3_01
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(86) MusculoDer3_02
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(87) MusculoDer2_01
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(88) MusculoDer2_02
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(89) MusculoDer1_01
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(90) MusculoDer1_02
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(91) ASBaseColumna1
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(92) ASRotorCuello_02
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(93) ASRotorBoca
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(94) HuesoBoca_01
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(95) HuesoBoca_02
+[2021.05.02-06.11.24:222][635]LogFbx: SortedLinks :(96) ASRotorCuello_03
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(97) Ojo_LP
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(98) ASPiernaDer1
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(99) PiernaDer1_01
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(100) PiernaDer1_02
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(101) PiernaDer1_03
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(102) PiernaDer1_04
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(103) ASPiernaIzq1
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(104) PiernaIzq1_01
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(105) PiernaIzq1_02
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(106) PiernaIzq1_03
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(107) PiernaIzq1_04
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(108) ASPiernaDer2
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(109) PiernaDer2_01
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(110) PiernaDer2_02
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(111) PiernaDer2_03
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(112) PiernaDer2_04
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(113) ASPiernaIzq2
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(114) PiernaIzq2_01
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(115) PiernaIzq2_02
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(116) PiernaIzq2_03
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(117) PiernaIzq2_04
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(118) ASPiernaDer3
+[2021.05.02-06.11.24:223][635]LogFbx: SortedLinks :(119) PiernaDer3_01
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(120) PiernaDer3_02
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(121) PiernaDer3_03
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(122) PiernaDer3_04
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(123) ASPiernaIzq3
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(124) PiernaIzq3_01
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(125) PiernaIzq3_02
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(126) PiernaIzq3_03
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(127) PiernaIzq3_04
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(128) ASPiernaDer4
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(129) PiernaDer4_01
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(130) PiernaDer4_02
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(131) PiernaDer4_03
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(132) PiernaDer4_04
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(133) ASPiernaIzq4
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(134) PiernaIzq4_01
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(135) PiernaIzq4_02
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(136) PiernaIzq4_03
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(137) PiernaIzq4_04
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(138) Cola_01
+[2021.05.02-06.11.24:224][635]LogFbx: SortedLinks :(139) Cola_02
+[2021.05.02-06.11.24:234][635]LogFbx: Parsing AnimStack Take 001
+[2021.05.02-06.11.24:251][635]LogFbx: Warning: CurveName(Distancia_LP001) is skipped because it only contains invalid values.
+[2021.05.02-06.11.25:785][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_AtaqueBomba.Distancia_AtaqueBomba
+[2021.05.02-06.11.25:785][635]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_10) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-06.11.25:785][635]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie2_6.CharacterMesh0.AnimSingleNodeInstance_10) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-06.11.25:787][635]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_10) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-06.11.25:787][635]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Grenadie_3.CharacterMesh0.AnimSingleNodeInstance_10) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-06.11.25:792][635]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_9:PersistentLevel.AI_Grenadie_C_0.CharacterMesh0.AnimSingleNodeInstance_11) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-06.11.25:792][635]LogAnimation: Warning: Setting an additive animation (Dietancia_Prueba_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_9:PersistentLevel.AI_Grenadie_C_0.CharacterMesh0.AnimSingleNodeInstance_11) is not allowed. This will not function correctly in cooked builds!
+[2021.05.02-06.11.25:858][635]FBXImport: FBX File Loading: Found name clash, node 'ASBaseColumna' was renamed to 'ASBaseColumna1' 
+[2021.05.02-06.11.25:858][635]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2021.05.02-06.11.26:006][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_AtaqueBomba.Distancia_AtaqueBomba
+[2021.05.02-06.11.27:760][696]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.02-06.11.27:779][696]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.02-06.11.32:925][918]LogMetaData: Removing '/Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.Distancia_AtaqueBomba' ref from Metadata '/Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_AtaqueBomba.PackageMetaData'
+[2021.05.02-06.11.33:003][918]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_AtaqueBomba7FE308A9445A9F3E8F3F589DE1E5F269.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.uasset'
+[2021.05.02-06.11.33:148][918]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2021.05.02-06.11.33:200][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.05.02-06.11.33:220][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.02-06.11.33:355][918]AssetCheck: New page: Asset Save: Distancia_AtaqueBomba
+[2021.05.02-06.11.33:355][918]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.Distancia_AtaqueBomba
+[2021.05.02-06.11.34:287][956]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Base.Distancia_Base
+[2021.05.02-06.11.34:295][956]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.11.37:589][ 22]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Base_Anim.Distancia_Base_Anim
+[2021.05.02-06.11.37:596][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.11.38:287][ 22]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.02-06.11.42:031][130]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.11.42:031][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.11.46:426][256]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.Distancia_AtaqueBomba
+[2021.05.02-06.12.30:584][529]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_AtaqueBomba4330F976416AF10804E46697B059C5B6.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.uasset'
+[2021.05.02-06.12.30:602][529]AssetCheck: New page: Asset Save: Distancia_AtaqueBomba
+[2021.05.02-06.12.30:602][529]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.Distancia_AtaqueBomba
+[2021.05.02-06.12.32:289][571]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.12.32:289][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.12.38:693][750]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.12.38:693][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.12.40:888][803]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.12.40:888][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.12.48:099][  0]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.12.48:099][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.12.52:750][128]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.12.52:750][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.13.07:314][511]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.13.07:314][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.14.08:999][260]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.14.09:254][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.14.09:290][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.14.11:362][306]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.14.11:590][306]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.14.11:592][306]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.14.13:349][346]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.14.13:593][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.14.13:595][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.28:935][417]LogEditorTransaction: Undo Drag Entry Tangent
+[2021.05.02-06.15.29:175][417]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.29:177][417]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.53:676][ 68]Cmd: TRANSACTION UNDO
+[2021.05.02-06.15.53:676][ 68]LogEditorTransaction: Undo Drag Entry Tangent
+[2021.05.02-06.15.53:883][ 68]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.53:886][ 68]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.54:013][ 69]Cmd: TRANSACTION UNDO
+[2021.05.02-06.15.54:013][ 69]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.15.54:218][ 69]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.54:220][ 69]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.54:804][ 82]Cmd: TRANSACTION UNDO
+[2021.05.02-06.15.54:804][ 82]LogEditorTransaction: Undo Set Interp Break
+[2021.05.02-06.15.55:007][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.55:009][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.55:171][ 84]Cmd: TRANSACTION UNDO
+[2021.05.02-06.15.55:171][ 84]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.15.55:372][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.55:374][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.55:929][ 97]Cmd: TRANSACTION UNDO
+[2021.05.02-06.15.55:930][ 97]LogEditorTransaction: Undo Set Interp Break
+[2021.05.02-06.15.56:142][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.56:144][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.57:453][130]Cmd: TRANSACTION UNDO
+[2021.05.02-06.15.57:453][130]LogEditorTransaction: Undo Drag Entry Tangent
+[2021.05.02-06.15.57:647][130]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.57:649][130]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.58:273][144]Cmd: TRANSACTION UNDO
+[2021.05.02-06.15.58:273][144]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.15.58:482][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.58:484][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.58:972][155]Cmd: TRANSACTION UNDO
+[2021.05.02-06.15.58:972][155]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.15.59:178][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.15.59:180][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.01:943][230]Cmd: TRANSACTION UNDO
+[2021.05.02-06.16.01:943][230]LogEditorTransaction: Undo Set Interp Break
+[2021.05.02-06.16.02:146][230]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.02:147][230]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.03:600][269]Cmd: TRANSACTION UNDO
+[2021.05.02-06.16.03:600][269]LogEditorTransaction: Undo Editar Tipo de animación aditiva
+[2021.05.02-06.16.03:810][269]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.03:812][269]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.07:461][360]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.16.07:462][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.16.10:457][444]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.Distancia_AtaqueBomba
+[2021.05.02-06.16.27:942][918]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.16.28:150][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.28:152][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.34:269][ 77]LogEditorTransaction: Undo Drag Entry Tangent
+[2021.05.02-06.16.34:493][ 77]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.34:495][ 77]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.36:420][121]LogEditorTransaction: Undo Drag Entry Tangent
+[2021.05.02-06.16.36:614][121]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.36:616][121]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.44:603][314]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.05.02-06.16.44:801][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.44:804][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.45:081][317]LogEditorTransaction: Undo Drag Entry Tangent
+[2021.05.02-06.16.45:280][317]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.45:281][317]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.57:718][661]LogEditorTransaction: Undo Drag Entry Tangents
+[2021.05.02-06.16.57:915][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.16.57:917][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.17.39:798][800]LogEditorTransaction: Undo Drag Entry Tangents
+[2021.05.02-06.17.40:009][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.17.40:010][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.18.04:286][467]LogEditorTransaction: Undo Move Key
+[2021.05.02-06.18.04:494][467]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.18.04:496][467]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.18.12:135][679]LogEditorTransaction: Undo Move Key
+[2021.05.02-06.18.12:329][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.18.12:331][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.18.21:103][920]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.Distancia_AtaqueBomba
+[2021.05.02-06.18.21:518][920]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_AtaqueBomba90F13E204AB9A179029257A6E58C0495.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.uasset'
+[2021.05.02-06.18.21:535][920]AssetCheck: New page: Asset Save: Distancia_AtaqueBomba
+[2021.05.02-06.18.21:535][920]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueBomba.Distancia_AtaqueBomba
+[2021.05.02-06.18.23:349][972]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.18.23:349][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.19.11:884][421]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Idle_Anim.Distancia_Idle_Anim
+[2021.05.02-06.19.12:333][421]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_Idle_AnimF1ABADED43B547AC636592B272F20C91.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Idle_Anim.uasset'
+[2021.05.02-06.19.12:353][421]AssetCheck: New page: Asset Save: Distancia_Idle_Anim
+[2021.05.02-06.19.12:353][421]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Idle_Anim.Distancia_Idle_Anim
+[2021.05.02-06.19.17:705][582]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.19.17:705][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.19.21:215][690]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.19.21:215][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.19.59:472][898]LogEditorTransaction: Undo Move Keys
+[2021.05.02-06.19.59:668][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.19.59:671][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.02-06.20.10:959][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.Distancia_AtaqueProyectil
+[2021.05.02-06.20.11:842][251]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_AtaqueProyectil233DA8864AF148F39502DEBCC2BF8026.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.uasset'
+[2021.05.02-06.20.11:880][251]AssetCheck: New page: Asset Save: Distancia_AtaqueProyectil
+[2021.05.02-06.20.11:880][251]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_AtaqueProyectil.Distancia_AtaqueProyectil
+[2021.05.02-06.20.13:786][307]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.20.13:786][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.20.17:187][413]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.20.17:187][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.20.26:031][698]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.20.26:031][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.20.29:637][808]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.20.29:637][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.20.42:412][233]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/Distancia_Idle_Anim608CE8C24AFE1751EC7D5EBBDFFF9B42.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Idle_Anim.uasset'
+[2021.05.02-06.20.42:435][233]AssetCheck: New page: Asset Save: Distancia_Idle_Anim
+[2021.05.02-06.20.42:435][233]LogContentValidation: Display: Validating AnimSequence /Game/ENEMIES/DISTANCIA/Distancia_Nuevo/Distancia_Animaciones/Distancia_Idle_Anim.Distancia_Idle_Anim
+[2021.05.02-06.20.43:954][284]LogSlate: Window 'Distancia_Idle_Anim' being destroyed
+[2021.05.02-06.20.43:971][284]LogSlate: Window 'Distancia_Idle_Anim' being destroyed
+[2021.05.02-06.20.43:971][284]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.20.43:971][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.20.44:137][284]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.20.44:137][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.20.44:152][284]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.20.44:152][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.20.44:203][284]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-06.20.44:203][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-06.20.46:080][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.02-06.20.46:133][374]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Saved/ThirdPersonExampleMapCD771E704FF591671E7E519668AD66D6.tmp' to '../../../../../../Users/Asus/Documents/GitHub/FarTooDeep/FarTooDeep/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.02-06.20.46:177][374]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.05.02-06.20.46:177][374]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
