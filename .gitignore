@@ -72,8 +72,3 @@ FarTooDeep/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 FarTooDeep/DerivedDataCache/*
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
-*.opensdf
